@@ -1,0 +1,88 @@
+[
+    [
+        {
+            "id": 1,
+            "name": "RAVEN DESK CLOCK",
+            "newPrice": "299.98",
+            "oldPrice": "$389.97",
+            "about": "Deadlines, dinner time or date night. Keep track of the time whilst working with the Raven Desk Clock. Petite and compact it's made from a deep grey Polyresin contrasted with natural wooden hands. Place it on your desk, on a shelf or beside the bed for ultimate time keeping.",
+            "image": "https://clockshops.com/wp-content/uploads/2022/04/BUL-C4867-1-462x462.jpg"
+        },
+
+        {
+            "id": 2,
+            "name": "Citizen Men's JY8078-52L 'Promaster Skyhawk A-T' Chronograph Stainless Steel Watch",
+            "newPrice": "362.18",
+            "oldPrice": "$470.83",
+            "about": "This men's watch from the Promaster Skyhawk A-T collection features a stainless steel bracelet and blue chronograph dial.",
+            "image": "https://cdn.shopify.com/s/files/1/2117/1313/products/JY8078-52L_large.jpg"
+        },
+
+        {
+            "id": 3,
+            "name": "Samsung Galaxy Watch",
+            "newPrice": "250.99",
+            "oldPrice": "$326.29",
+            "about": "The Samsung Galaxy Watch looks like a real watch, it lasts four days between charges and it’s one of the most refined smartwatches you can buy today. Its rotating bezel isn’t just a brilliant idea, it also protects your screen from accidental scratches or drops. The Galaxy Watch launched at a premium smartwatch price, but can easily be found for much less these days. OS: Tizen OS 4.0 | Display: 1.2-inch or 1.3-inch Super AMOLED, 320 x 320 | Internal storage: 4GB | Battery duration: 4 days | Charging method: wireless | Waterproof: swim | Year of release: 2018 ",
+            "image": "https://cdn.mos.cms.futurecdn.net/cXsCL3fo2PAuUaRSkUfvwJ-970-80.png.webp"
+        }
+    ],
+
+    [
+        {
+            "id": 4,
+            "name": "COLERIDGE CLOCK - LARGE",
+            "newPrice": "339.99",
+            "oldPrice": "$407.99",
+            "about": "Stunningly simple and understated the Coleridge Clock is made from natural Slate contrasted with Brass hands. The easy-to-read engraved dials differ in length - so you'll easily be able to tell when It's time for a nice glass of wine.",
+            "image": "https://cdn11.bigcommerce.com/s-g62km8uew2/images/stencil/1280x1280/products/1180/35165/CLSL03_portrait_8__53813.1638464427.jpg?c=1"
+        },
+    
+        {
+            "id": 5,
+            "name": "Bulova Men's 98B104 'Marine Star' Chronograph Black Silicone Watch",
+            "newPrice": "548.63",
+            "oldPrice": "$658.36",
+            "about": "This men's watch from the Marine Star collection features a silicone strap and black chronograph dial.Case Material: Stainless Steel | Case Size: 44 mm x 44mm | Case Thickness: 12 mm | Case Shape: Round | Case Back Type: Snap down",
+            "image": "https://cdn.shopify.com/s/files/1/2117/1313/products/98B104_600x.jpg?v=1574741873"
+        },
+
+        {
+            "id": 6,
+            "name": "Garmin Vivoactive 4",
+            "newPrice": "249.99",
+            "oldPrice": "$301.188",
+            "about": "The Garmin Vivoactive can be whatever you want it to be. With music and GPS as standard and an 8-day battery life in smartwatch mode, it can be the digital assistant we all need on our wrists or a high-quality fitness tracker. The Garmin Vivoactive 4 comes in with a higher price tag than those you can currently snag on the 3 model, but it's the latest model with a load of features to get your money's worth. OS: Wear | Display: 1.3-inch, 260 x 260 | Internal storage: 3.6GB | Battery duration: 6 hours - 8 days | Charging method: Proprietary | Waterproof: 5 ATM | Year of release: 2019",
+            "image": "https://cdn.mos.cms.futurecdn.net/vzDhs6ZUrqXQHzK8HiQWMb-970-80.jpg.webp"
+        }
+    ],
+
+    [
+        {
+            "id": 7,
+            "name": "CARBON EASTINGTON CLOCK - 50CM",
+            "newPrice": "200.91",
+            "oldPrice": "$221.00",
+            "about": "From cooking dinner to working at home, always keep track of the time with our Eastington Wall Clock. Classic in design and available in two sizes, It's finished in our deep Carbon colourway, an off-black with a hint of midnight blue.",
+            "image": "https://cdn11.bigcommerce.com/s-g62km8uew2/images/stencil/640w/products/1179/35144/CLCN05_portrait_8__04224.1638464168.jpg?c=1"
+        },
+    
+        {
+            "id": 8,
+            "name": "Gucci Women's YA125511 'G-Gucci' Gold-Tone Stainless Steel Watch",
+            "newPrice": "473.33",
+            "oldPrice": "$520.66",
+            "about": "This women's watch from the G-Gucci collection features a gold-tone stainless steel bracelet and brown dial. Case Material: Stainless steel | Case Size: 24 mm x 24mm | Case Thickness: 7 mm | Case Shape: Square | Case Back Type: Snap-down",
+            "image": "https://cdn.shopify.com/s/files/1/2117/1313/products/YA125511.jpg?v=1509120633"
+        },
+    
+        {
+            "id": 9,
+            "name": "Fossil Sport",
+            "newPrice": "499.99",
+            "oldPrice": "$549.99",
+            "about": "The Fossil Sport represents Fossil's first serious step into the smartwatch world, and thanks to the few releases we've seen since, this model is now falling in price for some great deals. This is a mid-range smartwatch, with a price tag easily stomach-able and has the features to back it up. You're getting a primarily fitness-focused device, but one that syncs with your digital world all the same. It's compatible with both Android and iOS and carries a classic Fossil charm into the digital age. OS: Wear | Display: 1.2-inch AMOLED, 390 x 390 | Internal storage: 4GB | Battery duration: 2 days | Charging method: Proprietary | Waterproof: 5 ATM | Year of release: 2018",
+            "image": "https://cdn.mos.cms.futurecdn.net/2N4kn9kFxbn48XgtCDejpA-970-80.jpg.webp"
+        }
+    ]
+]
